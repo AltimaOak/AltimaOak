@@ -1,16 +1,120 @@
-## Hi there 👋
+# Hi, I'm Aditya Yadav
 
-<!--
-**AltimaOak/AltimaOak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Machine+Learning+Enthusiast" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+---
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+### ⚙️ Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+---
+
+### 🧠 AI / Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+
+---
+
+### 🛠 Tools & Platforms
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AltimaOak&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AltimaOak&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltimaOak&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Core Engineering Skills
+
+- Backend System Design  
+- REST API Development  
+- Machine Learning Integration  
+- Data Processing & Optimization  
+- Debugging & Performance Tuning  
+
+---
+
+## 📌 Pinned Project Strategy (CRITICAL)
+
+You should pin **ONLY 4–6 high-signal projects**. Order matters.
+
+### 1️⃣ Flagship Project (Top Position)
+- Full-stack + ML integration  
+- Example: Dropout Defender  
+- Must show: architecture + real-world impact  
+
+### 2️⃣ Production Backend System
+- Example: Healthcare / Appointment System  
+- Focus: APIs, DB design, scalability  
+
+### 3️⃣ AI / ML Project
+- Example: AI Symptom Checker  
+- Show: model + data pipeline  
+
+### 4️⃣ System / Engineering Project
+- Example: Bus Tracking / Real-time system  
+- Focus: performance + real-time updates  
+
+### 5️⃣ Optional: Experimental / Hackathon
+- Only if technically strong  
+
+⚠️ Remove weak, incomplete, or tutorial projects — they dilute signal.
+
+---
+
+## 🎯 Recruiter-Optimized Structure
+
+This README is intentionally designed for:
+
+- **6–8 second scan time**
+- Immediate visibility of stack  
+- Proof via GitHub stats  
+- Clear engineering focus  
+
+Recruiters evaluate:
+1. Tech stack clarity  
+2. Project depth (not count)  
+3. Consistency of commits  
+4. Problem complexity  
+
+---
