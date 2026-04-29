@@ -45,6 +45,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![PostgreSql](https://img.shields.io/badge/PostgreSql-F05032?style=for-the-badge&logo=PostgreSql)
 
 ---
 
