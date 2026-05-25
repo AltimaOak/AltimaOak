@@ -63,3 +63,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltimaOak&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-yadav-ab0b242a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:adi144.yadav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adi144.yadav%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://altima-oak-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
